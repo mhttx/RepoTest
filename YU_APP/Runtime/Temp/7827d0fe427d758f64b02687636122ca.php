@@ -1,0 +1,3 @@
+<?php
+//000000000300a:2:{i:0;a:2:{s:2:"id";s:2:"58";s:4:"user";a:4:{s:8:"avatar64";s:64:"/app/Uploads/Avatar/2015-04-13/552b8a8d903dd-7900081f_64_64.jpeg";s:8:"nickname";s:5:"lykzz";s:9:"space_url";s:52:"/app/index.php?s=/usercenter/index/index/uid/58.html";s:10:"space_link";s:93:"<a ucard=58 target=_blank href=/app/index.php?s=/usercenter/index/index/uid/58.html>lykzz</a>";}}i:1;a:2:{s:2:"id";s:1:"1";s:4:"user";a:4:{s:8:"avatar64";s:36:"/app/Addons/Avatar/default_64_64.jpg";s:8:"nickname";s:5:"admin";s:9:"space_url";s:51:"/app/index.php?s=/usercenter/index/index/uid/1.html";s:10:"space_link";s:91:"<a ucard=1 target=_blank href=/app/index.php?s=/usercenter/index/index/uid/1.html>admin</a>";}}}
+?>
